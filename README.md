@@ -15,8 +15,8 @@ Jet vs Dragon is a simple 2D game built using the Pygame Zero framework. It invo
 - Game over condition with a game over screen.
 
 ## Screenshots
+![Jet vs Dragon Screenshot](https://github.com/HassenGharbii/Jet-vs-Dragon-Game-using-Python/raw/main/dragon%20vs%20jet.PNG)
 
-Include screenshots or GIFs of the gameplay to provide a visual representation of your game.
 
 ## Getting Started
 
